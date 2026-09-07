@@ -1,0 +1,13 @@
+{
+  "name": "scopekit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline proposal builder for freelance web designers with live previews, scope boundaries, deposit calculations and portable exports.",
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
